@@ -3,5 +3,4 @@ public class Main {
     System.out.println("新建分支");
     System.out.println("这是一个冲突");
     System.out.println("这是一个冲突");
-    System.out.println("这是一个冲突");
 }
